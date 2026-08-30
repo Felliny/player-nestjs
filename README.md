@@ -24,3 +24,8 @@ Este projeto foi construído do zero como um estudo prático e intensivo para ex
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/SEU_USUARIO/player-api.git](https://github.com/SEU_USUARIO/player-api.git)
+
+## Demonstração
+
+https://youtu.be/aOC-O6ltHmc
+
