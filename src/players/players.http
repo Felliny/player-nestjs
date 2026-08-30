@@ -1,0 +1,28 @@
+### list players
+GET http://localhost:3000/players
+
+### get player
+GET http://localhost:3000/players/dev_NZptmeo2J29KT1lI9hAxk
+
+### create player
+POST http://localhost:3000/players
+Content-Type: application/json
+
+{
+    "name": "Leo",
+    "balance": 300,
+    "createdAt": "2020-02-03"
+}
+
+### update player
+PATCH  http://localhost:3000/players/dev_O2k1v6iWYFaJKOE-ytGQu
+Content-Type: application/json
+
+{
+    "name": "LeoTESTE",
+    "balance": 600
+}
+
+### delete player
+DELETE  http://localhost:3000/players/dev_NZptmeo2J29KT1lI9hAxk
+
