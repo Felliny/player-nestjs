@@ -5,7 +5,6 @@ Uma API RESTful desenvolvida como estudo prático do framework NestJS, focada na
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi construído do zero como um estudo prático e intensivo para explorar o ecossistema **NestJS** e **TypeScript**. 
-Tendo uma base consolidada em **Java e Spring Boot**, meu principal objetivo aqui foi aplicar meus conhecimentos em Arquitetura Limpa, Injeção de Dependências e divisão de responsabilidades (Controllers/Services) no ambiente Node.js. 
 
 ## 🛠️ Tecnologias Utilizadas
 
